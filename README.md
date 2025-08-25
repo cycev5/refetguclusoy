@@ -1,2 +1,0 @@
-# refetguclusoy
-web sitesi
